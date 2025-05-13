@@ -1,0 +1,7 @@
+alpaca-trade-api
+krakenex
+websockets
+numpy
+rtmidi
+pandas
+matplotlib
