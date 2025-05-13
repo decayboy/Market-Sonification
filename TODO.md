@@ -1,4 +1,4 @@
-# 🎯 Market Sonifier – Master Development Roadmap
+#  Market Sonifier – Master Development Roadmap
 
 This is the internal development checklist for Market Sonifier.
 Use this file to track core milestones, enhancements, and experiments.
@@ -8,7 +8,7 @@ Version: 3.5 (Current)
 
 ---
 
-## ✅ Version 1 — Proof of Concept (Completed)
+##  Version 1 — Proof of Concept (Completed)
 
 - [x] Create historical market data → MIDI sonification system
 - [x] Implement data scaling + pitch mapping
@@ -16,7 +16,7 @@ Version: 3.5 (Current)
 
 ---
 
-## ✅ Version 2 — Composed Historical Market Music (Completed)
+##  Version 2 — Composed Historical Market Music (Completed)
 
 - [x] Add scale-constrained melodies
 - [x] Add trend-based chord generation (major = uptrend, minor = downtrend)
@@ -24,7 +24,7 @@ Version: 3.5 (Current)
 
 ---
 
-## ✅ Version 3 — Live Market Music Instrument (Completed)
+##  Version 3 — Live Market Music Instrument (Completed)
 
 - [x] Integrate Kraken (crypto) live price feed
 - [x] Integrate Alpaca (stocks) live price feed
@@ -37,33 +37,33 @@ Version: 3.5 (Current)
 
 ---
 
-## 🔨 Version 4 — Professional Market Performance System (Planned)
+##  Version 4 — Professional Market Performance System (Planned)
 
-### 🎵 Core System Upgrades
+###  Core System Upgrades
 - [ ] Migrate polling to async event loop (true concurrency)
 - [ ] Add Binance + Coinbase Pro feeds
 - [ ] Add IBKR stock feeds
 - [ ] Create market “personality” profiles (asset → unique sound rules)
 - [ ] Build plugin architecture for easy community add-ons
 
-### 🎹 Music & MIDI Engine
+###  Music & MIDI Engine
 - [ ] Add multiple instrument routing
 - [ ] Build a MIDI effects module (e.g. auto arpeggios, echoes)
 - [ ] Add tempo shifting based on global market volatility
 
-### 🖥️ Visuals
+###  Visuals
 - [ ] Start TouchDesigner visualizer module
 - [ ] Add audio-reactive market particle engine
 - [ ] Sync visuals with MIDI events via OSC
 
-### 🎛️ Performance Mode
+###  Performance Mode
 - [ ] Create internal “performance mode” UI (start/stop feeds, map assets to channels)
 - [ ] Add support for physical MIDI controllers (Launchpad, APC40)
 - [ ] Record and export full performances
 
 ---
 
-## 🎯 Stretch Goals
+##  Stretch Goals
 
 - [ ] Package as standalone app (PyInstaller or Docker)
 - [ ] Create web interface for configuring sonification engine
@@ -72,7 +72,7 @@ Version: 3.5 (Current)
 
 ---
 
-## 📝 Notes
+##  Notes
 
 This checklist reflects the evolving scope of Market Sonifier from an experimental art/research project to a fully functional market performance platform.
 
