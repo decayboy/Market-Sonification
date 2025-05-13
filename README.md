@@ -56,6 +56,15 @@ Use Alpaca's [paper trading API](https://alpaca.markets/learn/start-paper-tradin
 python main.py
 ```
 
+## Dependencies
+```
+pip install alpaca-trade-api krakenex websockets numpy rtmidi
+```
+Optional but useful:
+```
+pip install pandas matplotlib
+```
+
 ## System Architecture
 
 ```mermaid
