@@ -98,6 +98,21 @@ This project entirely draws inspiration from data sonification research, generat
 
 ---
 
+## Roadmap
+
+Market Sonifier is an evolving experimental + research project.  
+You can view the full internal development roadmap and planned feature list in [`TODO.md`](TODO.md).
+
+Current project phases:
+- Version 1: Historical data sonification (completed)
+- Version 2: Scale-constrained + chord music generation (completed)
+- Version 3: Live market sonification instrument w/ Kraken & Alpaca (completed)
+- Version 4: Market performance system + visuals + multi-feed + plugin system (in development)
+
+For full details see: [`TODO.md`](TODO.md)
+
+---
+
 [![License: Proprietary](https://img.shields.io/badge/license-Proprietary-blue.svg)](LICENSE.txt)
 
 > **Notice:**  
