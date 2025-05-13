@@ -1,4 +1,4 @@
-# 🎼 Market Sonifier
+#  Market Sonifier
 
 Market Sonifier is a real-time market data **sonification instrument**.  
 It converts live market data from **Kraken (crypto)** and **Alpaca (stocks)** into **MIDI music**, allowing you to "hear" the market as it moves.
@@ -7,7 +7,7 @@ This project serves as both a research tool and the core of a future market perf
 
 ---
 
-## 🔧 Features
+##  Features
 
 - Real-time price data from **Kraken** and **Alpaca** APIs
 - Maps prices, volume, RSI trends to musical notes, chords, and percussion hits
@@ -18,7 +18,7 @@ This project serves as both a research tool and the core of a future market perf
 
 ---
 
-## 🎯 Concept
+##  Concept
 
 Each market becomes a unique voice:
 - **Crypto assets (BTC, ETH)** → synth bass & melody lines  
@@ -30,9 +30,9 @@ You can literally **hear market volatility and trends** as an evolving musical p
 
 ---
 
-## 💻 Installation
+##  Installation
 
-### 1️⃣ Clone the repository
+### 1️ Clone the repository
 
 ```bash
 git clone https://github.com/decayboy/market-sonifier.git
