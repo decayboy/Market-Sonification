@@ -80,7 +80,7 @@ This project is provided as proprietary software with source available for evalu
 For commercial licensing inquiries, please contact:
 
 
-Email: William / billymadison30@gmaail.com
+Email: William / billymadison30@gmail.com
 
 See full legal terms in ```LICENSE.txt```.
 
