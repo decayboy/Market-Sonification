@@ -87,3 +87,16 @@ See full legal terms in ```LICENSE.txt```.
 ## Acknowledgements
 This project entirely draws inspiration from data sonification research, generative music systems, and experimental art.
 
+---
+
+[![License: Proprietary](https://img.shields.io/badge/license-Proprietary-blue.svg)](LICENSE.txt)
+
+> **Notice:**  
+> Market Sonifier is proprietary software.  
+> The source code is provided for personal, academic, and evaluation purposes only.  
+> Redistribution, modification, or commercial use is strictly prohibited without prior written consent from William Madison.  
+> See [`LICENSE.txt`](LICENSE.txt) for full legal terms.
+
+---
+
+
